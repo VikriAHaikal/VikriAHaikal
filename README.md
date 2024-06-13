@@ -1,10 +1,10 @@
-# Halo semua! 
+# Halo semua! 👋
 
 Perkenalkan nama saya **Vikri A Haikal**.<br>
 
 Saya seorang **Mahasiswa** di [Universitas Serang Raya](https://unsera.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/vikriahaikal)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vikriahaikal/)ku ya.
 
 <p align="left">
 <a href="https://github.com/VikriAHaikal">
